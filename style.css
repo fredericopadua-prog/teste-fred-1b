@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(212, 10, 10);
+}
+header{
+    background-color: darkred;
+    color: black;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
